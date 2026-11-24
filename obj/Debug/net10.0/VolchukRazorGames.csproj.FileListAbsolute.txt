@@ -242,3 +242,4 @@ D:\Programming\C#\RAZOR\Volchuk_Laba1\bin\Debug\net10.0\runtimes\win-arm64\nativ
 D:\Programming\C#\RAZOR\Volchuk_Laba1\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\Programming\C#\RAZOR\Volchuk_Laba1\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 D:\Programming\C#\RAZOR\Volchuk_Laba1\obj\Debug\net10.0\VolchukRazorGames.csproj.AssemblyReference.cache
+D:\Programming\C#\RAZOR\Volchuk_Laba1\obj\Debug\net10.0\VolchukRazorGames.sourcelink.json

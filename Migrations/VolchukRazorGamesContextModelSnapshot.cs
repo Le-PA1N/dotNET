@@ -41,8 +41,13 @@ namespace VolchukRazorGames.Migrations
                     b.Property<DateTime>("LastPlayed")
                         .HasColumnType("datetime2");
 
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
                     b.Property<string>("Title")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(60)
+                        .HasColumnType("nvarchar(60)");
 
                     b.HasKey("Id");
 

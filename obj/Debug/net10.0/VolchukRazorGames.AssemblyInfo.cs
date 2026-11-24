@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VolchukRazorGames")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e05309848a48d735b9673b929074ba96ba83e644")]
 [assembly: System.Reflection.AssemblyProductAttribute("VolchukRazorGames")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VolchukRazorGames")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

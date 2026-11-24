@@ -17,9 +17,11 @@ public class DetailsModel : PageModel
 
     public async Task<IActionResult> OnGetAsync(int? id)
     {
-        if (id is null)
+
+
+        if (id == null)
         {
-            return NotFound();
+            return RedirectToPage("/GamePages/Create");
         }
 
         var game = await _context.Game.FirstOrDefaultAsync(m => m.Id == id);

@@ -26,7 +26,8 @@ namespace VolchukRazorGames.Models
                         HourCount = 111,
                         LastPlayed = DateTime.Parse("1999-2-12"),
                         AchievementsTotal = 111,
-                        AchievementsEarned = 111
+                        AchievementsEarned = 111,
+                        Price = 0.01
                        
                     },
                     new Game
@@ -35,7 +36,8 @@ namespace VolchukRazorGames.Models
                         HourCount = 2,
                         LastPlayed = DateTime.Parse("1999-2-12"),
                         AchievementsTotal = 100000,
-                        AchievementsEarned = 1
+                        AchievementsEarned = 1,
+                        Price = 0.01
                     },
                     new Game
                     {
@@ -43,7 +45,8 @@ namespace VolchukRazorGames.Models
                         HourCount = 61,
                         LastPlayed = DateTime.Parse("1999-2-12"),
                         AchievementsTotal = 135,
-                        AchievementsEarned = 67
+                        AchievementsEarned = 67,
+                        Price = 0.01
 
                     },
                     new Game
@@ -52,7 +55,8 @@ namespace VolchukRazorGames.Models
                         HourCount = 666,
                         LastPlayed = DateTime.Parse("1999-2-12"),
                         AchievementsTotal = 1,
-                        AchievementsEarned = 0
+                        AchievementsEarned = 0,
+                        Price = 0.01
 
                     }
                     );

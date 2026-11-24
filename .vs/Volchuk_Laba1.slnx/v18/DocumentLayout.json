@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261123201528_New_DataAnnotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261123201528_New_DataAnnotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\gamepages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\gamepages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\gamepages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\gamepages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261123194847_Update-Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261123194847_Update-Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\gamepages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\gamepages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\gamepages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\gamepages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\gamepages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\gamepages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\gamepages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\gamepages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\migrations\\20261027095348_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:migrations\\20261027095348_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|d:\\programming\\c#\\razor\\volchuk_laba1\\migrations\\20261027095348_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA4CC4DB-DAD6-BEE3-9325-1BD1D44DAD85}|VolchukRazorGames.csproj|solutionrelative:migrations\\20261027095348_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +66,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261123201528_New_DataAnnotations.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261123201528_New_DataAnnotations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261123201528_New_DataAnnotations.cs",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261123201528_New_DataAnnotations.cs",
+              "RelativeToolTip": "Migrations\\20261123201528_New_DataAnnotations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:15:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20261123194847_Update-Database.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261123194847_Update-Database.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261123194847_Update-Database.cs",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261123194847_Update-Database.cs",
+              "RelativeToolTip": "Migrations\\20261123194847_Update-Database.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:48:47.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:35:55.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GamePages\\Edit.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\GamePages\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T19:34:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GamePages\\Details.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Details.cshtml",
+              "RelativeToolTip": "Pages\\GamePages\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T19:33:41.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GamePages\\Delete.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\GamePages\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T19:33:15.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GamePages\\Create.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Create.cshtml",
+              "RelativeToolTip": "Pages\\GamePages\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T19:32:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GamePages\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\GamePages\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T16:07:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\GamePages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\GamePages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\GamePages\\Index.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T16:04:11.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20261027095348_InitialCreate.cs",
               "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Migrations\\20261027095348_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20261027095348_InitialCreate.cs",
@@ -42,7 +195,8 @@
               "RelativeToolTip": "Migrations\\20261027095348_InitialCreate.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T09:53:48.871Z"
+              "WhenOpened": "2026-10-27T09:53:48.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,14 +206,14 @@
               "RelativeDocumentMoniker": "Models\\Game.cs",
               "ToolTip": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Models\\Game.cs",
               "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T09:37:53.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -67,11 +221,12 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-20T13:16:14.739Z"
+              "WhenOpened": "2026-09-20T13:16:14.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -84,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\C#\\RAZOR\\Volchuk_Laba1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -92,7 +247,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T12:08:33.986Z"
+              "WhenOpened": "2026-09-20T12:08:33.986Z",
+              "EditorCaption": ""
             }
           ]
         }
